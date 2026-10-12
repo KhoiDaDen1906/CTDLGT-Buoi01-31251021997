@@ -45,7 +45,7 @@ internal class Ex2_The_Two_diff_biggest_value
 {
     
     
-    private static void Main(string[] args)
+    private static void Main2(string[] args)
     {
         System.Console.WriteLine("Enter the number: ");
         int n = int.Parse(Console.ReadLine() ?? "5");
@@ -75,6 +75,7 @@ internal class Ex2_The_Two_diff_biggest_value
         {
             System.Console.WriteLine("NO");
         }
+        
         else System.Console.WriteLine($"{max1} {max2}");
     }
 }
