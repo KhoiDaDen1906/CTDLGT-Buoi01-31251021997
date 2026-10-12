@@ -1,0 +1,14 @@
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).AssemblyInfoInputs.cache
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).AssemblyInfo.cs
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).csproj.CoreCompileInputs.cache
+/Users/mrthanh/DSA/Buổi 1 (12-10)/bin/Debug/net10.0/Buổi 1 (12-10)
+/Users/mrthanh/DSA/Buổi 1 (12-10)/bin/Debug/net10.0/Buổi 1 (12-10).deps.json
+/Users/mrthanh/DSA/Buổi 1 (12-10)/bin/Debug/net10.0/Buổi 1 (12-10).runtimeconfig.json
+/Users/mrthanh/DSA/Buổi 1 (12-10)/bin/Debug/net10.0/Buổi 1 (12-10).dll
+/Users/mrthanh/DSA/Buổi 1 (12-10)/bin/Debug/net10.0/Buổi 1 (12-10).pdb
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).dll
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/refint/Buổi 1 (12-10).dll
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).pdb
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/Buổi 1 (12-10).genruntimeconfig.cache
+/Users/mrthanh/DSA/Buổi 1 (12-10)/obj/Debug/net10.0/ref/Buổi 1 (12-10).dll
